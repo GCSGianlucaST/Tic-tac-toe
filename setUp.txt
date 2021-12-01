@@ -1,0 +1,6 @@
+to run the code you must have pygame installed
+If you already have pygame,
+then you can run host.py with the following command
+start host.py
+and after that you can run client.py with the following command
+start client.py
